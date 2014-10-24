@@ -1,0 +1,2 @@
+bash scripts must be run with /bin/bash
+search all paths for command, if does not exist, assume it is a path
